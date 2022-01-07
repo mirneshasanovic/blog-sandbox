@@ -55,8 +55,8 @@ a.post-tag {
 
   &:focus,
   &:hover {
-    color: var(--body-bg);
-    background-color: var(--link-color);
+    color: inherit;
+    text-decoration: none;
   }
 }
 
