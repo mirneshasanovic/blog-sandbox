@@ -9,7 +9,7 @@ plugins:
   - jekyll-paginate
   - jekyll-seo-tag
 
-paginate: 3
+paginate: 10
 
 tags_path: /tags/
 categories_path: /categories/
