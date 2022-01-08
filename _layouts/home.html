@@ -8,8 +8,8 @@ layout: default
     {% assign posts = paginator.posts %}
   {% endif %}
   {% for post in posts %}
+  <a href="{{ post.url | relative_url }}">
     <div class="post">
-      <a href="{{ post.url | relative_url }}">
         <h2 class="post-title">
           {{ post.title }}
         </h2>
@@ -24,8 +24,8 @@ layout: default
               {{ post.excerpt | strip_html }}
             {% endif %}
         </p>
-      </a>
     </div>
+  </a>
   {% endfor %}
 </div>
 
