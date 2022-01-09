@@ -1,8 +1,8 @@
-title: Blog
+title: Mirnes Hasanovic
 
 author:
   name: Mirnes Hasanovic
-  url: https://github.io
+  url: https://github.com/mirneshasanovic/
 
 plugins:
   - jekyll-feed
