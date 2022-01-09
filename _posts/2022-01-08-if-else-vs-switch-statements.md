@@ -32,7 +32,7 @@ switch (day) {
     System.out.println("Friday");
     break;
 }
-// Outputs "Wednesday" (day 3)
+// Output "Wednesday" (day 3)
 
 {% endhighlight %}
 
@@ -54,5 +54,5 @@ if (day == 1) {
 } else {
     System.out.println("Wednesday");
 }
-// Outputs "Wednesday" (day 3)
+// Output "Wednesday" (day 3)
 {% endhighlight %}
