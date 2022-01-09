@@ -4,7 +4,7 @@ Gem::Specification.new do |spec|
   spec.name          = "jekyll-theme-hydure"
   spec.version       = "2.0.0"
   spec.authors       = ["Song-Zi Vong"]
-  spec.email         = ["zivong@protonmail.com"]
+  spec.email         = ["mirnes.hasanovic.dev@gmail.com"]
 
   spec.summary       = "A concise two-column blog theme for Jekyll."
   spec.homepage      = "https://github.com/zivong/jekyll-theme-hydure"
