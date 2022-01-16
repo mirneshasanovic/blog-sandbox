@@ -3,7 +3,7 @@ layout: post
 title: Why do we use super keyword in Java?
 author: [Mirnes Hasanovic]
 category: [Example]
-tags: [switch, if-else]
+tags: [super, keyword]
 ---
 
 The **super** keyword in Java is a **reference variable** which is used to refer parent class object.
