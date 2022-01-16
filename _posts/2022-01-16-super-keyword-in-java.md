@@ -2,7 +2,7 @@
 layout: post
 title: Why do we use super keyword in Java?
 author: [Mirnes Hasanovic]
-category: [Example]
+category: [Java]
 tags: [super, keyword]
 ---
 

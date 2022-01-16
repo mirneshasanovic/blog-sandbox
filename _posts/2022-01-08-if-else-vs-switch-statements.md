@@ -2,7 +2,7 @@
 layout: post
 title: When should switch be used instead of if-else statements?
 author: [Mirnes Hasanovic]
-category: [Example]
+category: [Java]
 tags: [switch, if-else]
 ---
 
