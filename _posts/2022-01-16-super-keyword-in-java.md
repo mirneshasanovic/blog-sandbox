@@ -58,12 +58,16 @@ Both classes have the same method **(animalSound())**.
 *<u>1. How did we use the parent class variable?</u>*  
 {% highlight java %}
 System.out.println("Number of legs: " + super.legs);
+Output:
+Number of legs: 2
 {% endhighlight %}
 We did it by adding **super** keyword to **legs**.
 
 *<u>2. How did we call the parent class method?</u>*
 {% highlight java %}
 super.animalSound();
+Output:
+The animal makes a sound.
 {% endhighlight %}
 We did it by adding **super** keyword to **animalSound()** method.
 
