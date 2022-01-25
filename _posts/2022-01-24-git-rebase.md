@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Git rebase
+title: Git Rebase
 author: [Mirnes Hasanovic]
 category: [Github]
 tags: [rebase]
